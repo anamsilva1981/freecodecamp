@@ -10,5 +10,8 @@
 // Criar duas novas variáveis de cadeia: myFirstNamee myLastNamee atribuir-lhes os valores de seu primeiro e último nome, respectivamente.
 
 
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
+
+
 var myFirstName = "Ana Maria";
 var myLastName = "da Silva";

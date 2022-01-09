@@ -3,6 +3,10 @@
 
 // Inicializar as três variáveis a, be, ccom 5, 10e, "I am a"respectivamente, de modo que eles não serão undefined.
 
+
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
+
+
 // Only change code below this line
 var a = 5;
 var b = 10;

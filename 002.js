@@ -18,5 +18,6 @@
 // Veja o ourNameexemplo acima se não conseguir.
 
 
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
 
 var myName;

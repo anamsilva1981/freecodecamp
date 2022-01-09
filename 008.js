@@ -17,6 +17,8 @@
 // Não crie novas variáveis.
 
 
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
+
 // Variable declarations
 var studlyCapVar;
 var properCamelCase;

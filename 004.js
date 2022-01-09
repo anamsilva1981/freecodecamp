@@ -9,6 +9,7 @@
 
 // Atribua o conteúdo de aà variável b.
 
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
 
 // Setup
 var a;

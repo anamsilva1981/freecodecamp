@@ -15,6 +15,7 @@
 // Tente criar um de cada tipo de comentário.
 
 
-// comentando
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
+
 
 /* Comentando*/

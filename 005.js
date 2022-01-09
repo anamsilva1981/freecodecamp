@@ -7,5 +7,8 @@
 // Defina uma variável acom vare inicialize-a com um valor de 9.
 
 
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
+
+
 var myVar = 0;
 var a = 9;

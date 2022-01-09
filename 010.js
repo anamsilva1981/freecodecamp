@@ -16,7 +16,7 @@
 // Altere o código para que todas as variáveis ​​sejam declaradas usando letou const. Use letquando quiser que a variável mude e constquando quiser que a variável permaneça constante. Além disso, renomeie as variáveis ​​declaradas com constpara estar em conformidade com as práticas comuns, o que significa que as constantes devem estar em maiúsculas.
 
 
-/////////////////////////////////////////////////////////
+/////////////////////////// R E S U L T A D O /////////////////////////////////////
 
 const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
