@@ -5,7 +5,7 @@ JavaScript é uma linguagem de script que você pode usar para tornar as página
 Neste curso, você aprenderá os conceitos fundamentais de programação em JavaScript. Você começará com estruturas de dados básicas como números e strings. Em seguida, você aprenderá a trabalhar com matrizes, objetos, funções, loops, instruções if / else e muito mais.
 
 
-<ul>
+<ol>
 <li>Comente o seu código JavaScript</li>
 <li>Declarar variáveis ​​JavaScript</li>
 <li>Armazenando Valores com o Operador de Atribuição</li>
@@ -119,4 +119,4 @@ Neste curso, você aprenderá os conceitos fundamentais de programação em Java
 <li>Use vários operadores condicionais (ternários)</li>
 <li>Use a recursão para criar uma contagem regressiva</li>
 <li>Use a recursão para criar um intervalo de números</li>
-</ul>
+</ol>

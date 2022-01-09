@@ -1,4 +1,5 @@
 // Compreendendo a sensibilidade a maiúsculas e minúsculas em variáveis
+
 // Em JavaScript, todas as variáveis ​​e nomes de função diferenciam maiúsculas de minúsculas. Isso significa que a capitalização é importante.
 
 // MYVARnão é o mesmo que MyVarnem myvar. É possível ter várias variáveis ​​distintas com o mesmo nome, mas com maiúsculas e minúsculas diferentes. É altamente recomendável que, por uma questão de clareza, você não use este recurso de linguagem.

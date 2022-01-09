@@ -1,4 +1,5 @@
 // Explore as diferenças entre as palavras-chave var e let
+
 // Um dos maiores problemas com a declaração de variáveis ​​com a varpalavra-chave é que você pode substituir facilmente as declarações de variáveis:
 
 // var camper = "James";

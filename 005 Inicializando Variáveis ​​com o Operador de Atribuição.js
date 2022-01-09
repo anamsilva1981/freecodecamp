@@ -1,4 +1,5 @@
 // Inicializando Variáveis ​​com o Operador de Atribuição
+
 // É comum inicializar uma variável com um valor inicial na mesma linha em que é declarada.
 
 // var myVar = 0;

@@ -1,4 +1,5 @@
 // Armazenando Valores com o Operador de Atribuição
+
 // Em JavaScript, você pode armazenar um valor em uma variável com o operador de atribuição ( =).
 
 // myVariable = 5;

@@ -1,4 +1,5 @@
 // Comente o seu código JavaScript
+
 // Os comentários são linhas de código que o JavaScript ignora intencionalmente. Os comentários são uma ótima maneira de deixar notas para você mesmo e para outras pessoas que mais tarde precisarão descobrir o que aquele código faz.
 
 // Existem duas maneiras de escrever comentários em JavaScript:

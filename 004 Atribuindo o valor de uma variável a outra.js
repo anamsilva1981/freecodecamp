@@ -1,4 +1,5 @@
 // Atribuindo o valor de uma variável a outra
+
 // Depois que um valor é atribuído a uma variável usando o operador de atribuição , você pode atribuir o valor dessa variável a outra variável usando o operador de atribuição .
 
 // var myVar;

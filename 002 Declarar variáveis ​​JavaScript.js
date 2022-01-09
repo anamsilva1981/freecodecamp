@@ -1,4 +1,5 @@
 // Declarar variáveis ​​JavaScript
+
 // Na ciência da computação, dados são qualquer coisa significativa para o computador. JavaScript fornece oito diferentes tipos de dados que são undefined, null, boolean, string, symbol, bigint, number, e object.
 
 // Por exemplo, computadores distinguir entre números, tais como o número 12e strings, tais como "12", "dog", ou "123 cats", que são conjuntos de caracteres. Os computadores podem realizar operações matemáticas em um número, mas não em uma string.

@@ -1,4 +1,5 @@
 // Declarar Variáveis ​​de String
+
 // Anteriormente, você usava o seguinte código para declarar uma variável:
 
 // var myName;

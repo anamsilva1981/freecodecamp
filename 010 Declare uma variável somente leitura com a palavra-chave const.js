@@ -1,4 +1,5 @@
 // Declare uma variável somente leitura com a palavra-chave const
+
 // A palavra let- chave não é a única maneira nova de declarar variáveis. No ES6, você também pode declarar variáveis ​​usando a constpalavra - chave.
 
 // consttem todos os recursos incríveis que letpossui, com a vantagem adicional de que as variáveis ​​declaradas usando constsão somente leitura. Eles são um valor constante, o que significa que uma vez que uma variável é atribuída com const, ela não pode ser reatribuída:
